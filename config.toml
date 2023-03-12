@@ -1,0 +1,4 @@
+baseURL = 'http://beta.helgelandturbuss.no/'
+languageCode = 'en-us'
+title = 'Helgeland Tur Buss'
+theme = 'ananke'
